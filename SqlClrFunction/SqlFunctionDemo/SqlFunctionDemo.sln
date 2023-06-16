@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlFunctionDemo", "SqlFunctionDemo\SqlFunctionDemo.csproj", "{DC6708A7-0EFE-43E0-BB65-C78AF3E497EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6708A7-0EFE-43E0-BB65-C78AF3E497EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6708A7-0EFE-43E0-BB65-C78AF3E497EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6708A7-0EFE-43E0-BB65-C78AF3E497EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6708A7-0EFE-43E0-BB65-C78AF3E497EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DE5624-688F-4CE8-B559-F32D1398E3F5}
+	EndGlobalSection
+EndGlobal
